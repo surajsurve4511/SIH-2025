@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Smart Farm Management System",
+  "description": "A comprehensive farm management system with AI-powered advisory for farmers and agricultural consultants.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
